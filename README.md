@@ -1,0 +1,1 @@
+An Education CRM designed to streamline student enrollment, track course progress, and manage student information efficiently. It incorporates features like online course enrollment, automated progress tracking, and personalized learning dashboards.
